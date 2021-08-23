@@ -1,0 +1,25 @@
+.logo {
+    width: 10%;
+    float: left;
+}
+
+.resturant-logo {
+    width: 40%;
+
+}
+
+.food-search {
+    background-image: url(../../../../Images/banner.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 5.5rem 0;
+    text-align: center;
+
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
